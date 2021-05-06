@@ -13,7 +13,7 @@
 ### About Me 🚀
 🌱 I'm a Junior undergraduate in Electrical Engineering. </br>
 👨‍💻 I am passionate about Data Analytics & I enjoy learning new things. </br>
-👨‍💻 My area of interest includes Data Science and Artificial Intelligence
+👨‍💻 My area of interest includes Data Science and Artificial Intelligence. </br>
 
 ![Rajan's github stats](https://github-readme-stats.vercel.app/api?username=Rajan-jangir&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Rajan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajan-jangir&layout=compact&langs_count=8)
