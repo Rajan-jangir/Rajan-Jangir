@@ -11,7 +11,7 @@
 <br />
 
 ### About Me 🚀
-🌱 I'm a Junior undergraduate in Electrical Engineering. </br>
+🌱 I'm a Senior undergraduate in Electrical Engineering. </br>
 👨‍💻 I am passionate about Data Analytics & I enjoy learning new things. </br>
 👨‍💻 My area of interest includes Data Science and Artificial Intelligence. </br>
 
