@@ -11,8 +11,8 @@
 <br />
 
 ### About Me 🚀
-🌱 I'm a Senior undergraduate in Electrical Engineering. </br>
-👨‍💻 I am passionate about Data Analytics & I enjoy learning new things. </br>
+💻 Working as Data Analyst Intern in an eCommerce Startup </br>
+🌱I'm a Senior undergraduate in Electrical Engineering. </br>
 👨‍💻 My area of interest includes Data Science and Artificial Intelligence. </br>
 
 ![Rajan's github stats](https://github-readme-stats.vercel.app/api?username=Rajan-jangir&show_icons=true&hide_border=true)&nbsp;&nbsp;
