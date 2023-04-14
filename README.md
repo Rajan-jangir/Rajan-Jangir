@@ -11,8 +11,8 @@
 <br />
 
 ### About Me 🚀
-💻 Worked as Data Analyst Intern in an eCommerce Startup </br>
-🌱Graduate in Electrical Engineering. </br>
+💻 Working as Analyst(Business Intelligence) at Capgemini </br>
+🌱Graduated in Electrical Engineering. </br>
 👨‍💻 My area of interest includes Data Science and Analytics. </br>
 
 ![Rajan's github stats](https://github-readme-stats.vercel.app/api?username=Rajan-jangir&show_icons=true&hide_border=true)&nbsp;&nbsp;
