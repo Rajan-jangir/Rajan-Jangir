@@ -11,7 +11,7 @@
 <br />
 
 ### About Me 🚀
-💻 Working as Analyst(Business Intelligence) at Capgemini </br>
+💻 Working as Analyst(Data Engineering) at Capgemini </br>
 🌱Graduated in Electrical Engineering. </br>
 👨‍💻 My area of interest includes Data Science and Analytics. </br>
 
