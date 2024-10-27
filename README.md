@@ -11,9 +11,9 @@
 <br />
 
 ### About Me 🚀
-💻 Working as Analyst(Data Engineering) at Capgemini </br>
+💻 Working as Senior Analyst(Data Engineering) at Capgemini </br>
 🌱Graduated in Electrical Engineering. </br>
-👨‍💻 My area of interest includes Data Science and Analytics. </br>
+👨‍💻 My area of interest includes Data Engineering and Analytics. </br>
 
 ![Rajan's github stats](https://github-readme-stats.vercel.app/api?username=Rajan-jangir&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Rajan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajan-jangir&layout=compact&langs_count=8)
