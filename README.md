@@ -14,6 +14,7 @@
 💻 Working as Senior Analyst(Data Engineering) at Capgemini </br>
 🌱Graduated in Electrical Engineering. </br>
 👨‍💻 My area of interest includes Data Engineering and Analytics. </br>
+🏅Certified: [SnowPro Core](https://achieve.snowflake.com/dfa66ac8-ed55-48f7-bc2e-a0d6a7feefd4), [Microsoft Power BI](https://learn.microsoft.com/en-us/users/jangirrajan/credentials/9f0f28f8756a9fe).
 
 ![Rajan's github stats](https://github-readme-stats.vercel.app/api?username=Rajan-jangir&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Rajan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajan-jangir&layout=compact&langs_count=8)
